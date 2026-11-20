@@ -1,1 +1,1 @@
-const WEBHOOK_URL = "https://hook.us2.make.com/3gvf2ymhlqs2vbjxtmlf12uqc8m63xgj";
+const WEBHOOK_URL = "https://hook.us2.make.com/rbv5d5xygqc852wkvuy9ejbweq5n5q5w";
